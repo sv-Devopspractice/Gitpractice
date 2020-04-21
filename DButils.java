@@ -1,4 +1,2 @@
 Hello Everyone,
-this is my first java file.
-
-Updated...!      
+      this is my first java file.
